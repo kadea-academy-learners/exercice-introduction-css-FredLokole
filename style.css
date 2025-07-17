@@ -31,9 +31,16 @@ footer{
     text-align: center;
 }
 
+.quote{
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    padding-left: 20px;
+    
+}
+
 
 .timeline{
-    list-style-position: inside;
     width: 400px;
     margin: 0 auto;
     padding-left: 20px;
